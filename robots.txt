@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /drafts/
+Disallow: /tests/
+Allow: /docs/
+Sitemap: https://fubotvaccount.readthedocs.io/sitemap.xml
